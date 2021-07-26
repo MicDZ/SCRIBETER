@@ -31,3 +31,12 @@
 - [ ] 可选择的不同编辑场景（作文格纸、石刻、竹简）
 
 
+## 开发者
+
+<p>
+<a href="https://github.com/MicDZ">
+<img src="https://avatars.githubusercontent.com/u/34596177?v=4" alt="MICDZ" width="50" style="border-radius:50%"/></a>
+<a href="https://github.com/eqvpkbz">
+<img src="https://avatars.githubusercontent.com/u/33982692?v=4" alt="eqvpkbz" width="50" style="border-radius:50%"/></a>
+</p>
+
