@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>Chinese</strong> | <a href="https://github.com/ripperhe/Bob/blob/master/README.en.md">English</a>
+  <strong>Chinese</strong> | <a href="https://github.com/MicDZ/SCRIBETER/blob/master/README.en.md">English</a>
 </p>
 
 
@@ -29,4 +29,5 @@
 - [ ] 导出文章（HTML、图片……）
 
 - [ ] 可选择的不同编辑场景（作文格纸、石刻、竹简）
+
 
