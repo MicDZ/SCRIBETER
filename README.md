@@ -1,5 +1,7 @@
 <p align="center">
   <img src="https://i.loli.net/2021/07/26/RqvUD9zXGAHpSIk.png" width=240 />
+</p>
+<p align="center">
 	 记录你的思潮泉涌 :pencil2:
 </p>
 <p align="center">
