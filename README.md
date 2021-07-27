@@ -3,7 +3,6 @@
 	 记录你的思潮泉涌 :pencil2:
 </p>
 <p align="center">
-
 	<a href="https://github.com/MicDZ/SCRIBETER/releases/latest"><img src="https://img.shields.io/github/v/release/MicDZ/SCRIBETER?logo=github" alt="GitHub release" /></a>
 </p>
 
