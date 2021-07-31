@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.loli.net/2021/07/26/RqvUD9zXGAHpSIk.png" width=240 />
+  <img src="https://i.loli.net/2021/07/31/IdBbvExi2CZgy6V.png" width=240 />
 </p>
 <p align="center">
 	 记录你的思潮泉涌 :pencil2:
