@@ -10,10 +10,10 @@ webpackJsonp(
           props: {
             value: { required: !0, type: [Number, String] },
             protectedSelection: { type: String, default: "0,0" },
-          },
+          }, /*
           data: function () {
             return { val: "" };
-          }, /* 
+          },  
           computed: {
             protectedSelectionStart: function () {
               return parseInt(this.protectedSelection.split(",")[0]);
@@ -23,9 +23,11 @@ webpackJsonp(
             },
           }, */
           methods: {
+            /*
             onInput: function () {
               this.$emit("input", this.val);
             },
+            */
             onDeleteKeyDown: function (e) {
               var t = e.target;
               console.log(
@@ -77,7 +79,7 @@ webpackJsonp(
                   function (t) {
                     t.target.composing || (e.val = t.target.value);
                   },
-                  e.onInput,
+                  /* e.onInput, */
                 ],
                 keydown: function (t) {
                   return "button" in t ||
@@ -96,20 +98,20 @@ webpackJsonp(
       var a = {
           name: "App",
           components: {
-            CustomTextarea: n("VU/8")(
+            CustomTextarea: n("unknown4")(
               r,
               i,
               !1,
               function (e) {
                 n("unknown2");
               },
-              "data-v-6067cfd8",
+              /* "data-v-6067cfd8", */
               null
             ).exports,
-          },
+          }, /*
           data: function () {
             return { str: "", protectedSelection: "0,0" };
-          },
+          }, */
         },
         c = {
           render: function () {
@@ -141,7 +143,7 @@ webpackJsonp(
           },
           staticRenderFns: [],
         };
-      var l = n("VU/8")(
+      var l = n("unknown4")(
         a,
         c,
         !1,
