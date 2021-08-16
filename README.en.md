@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/MicDZ/SCRIBETER/">Chinese</a> | <strong>English</strong>
+   <a href="https://github.com/MicDZ/SCRIBETER/">简体中文</a> | <strong>English</strong>
 </p>
 
 

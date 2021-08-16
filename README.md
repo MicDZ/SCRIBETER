@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>Chinese</strong> | <a href="https://github.com/MicDZ/SCRIBETER/blob/master/README.en.md">English</a>
+  <strong>简体中文</strong> | <a href="https://github.com/MicDZ/SCRIBETER/blob/master/README.en.md">English</a>
 </p>
 
 
